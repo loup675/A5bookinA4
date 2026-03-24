@@ -10,6 +10,8 @@ You can install these using pip:
 pip install pypdf pymupdf
 ```
 
+Also rember to [make a virtual environment for this!](https://www.youtube.com/watch?v=Y21OR1OPC9A)
+
 # How to use
 
 Make your A5 book in [bookbinder app](https://bookbinder.app/), 2 pages per side and scaled pages. Sheets per signature can technically be how many as you want, but I personally usually use 5.
