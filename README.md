@@ -3,12 +3,16 @@ Prepare your A5 books to print in A4 pages.
 
 # Dependencies: 
 
-pypdf, pymupdf and **numpy** ~~which i forgor to add in the notebook description~~ (just for some sorting, if you know something else you can use it). os and re (for renaming bookbinder app output) should come preinstalled.
+jupyter notebook, of course.
+
+pypdf, pymupdf and *numpy* ~~which i forgor to add in the notebook's description~~ (just for some sorting, if you know something else you can use it). 
+
+os and re (for renaming bookbinder app output) should come preinstalled.
 
 You can install these using pip:
 
 ```
-pip install pypdf pymupdf numpy
+pip install jupyter pypdf pymupdf numpy
 ```
 
 Also rember to [make a virtual environment for this!](https://www.youtube.com/watch?v=Y21OR1OPC9A)
@@ -19,7 +23,7 @@ Make your A5 book in [bookbinder app](https://bookbinder.app/), 2 pages per side
 
 # References
 
-[fetch all pdf files function from this notebook from a github page, which is from a youtube tutoyial](https://github.com/Jcharis/DataScienceTools/blob/master/PyPDF_CrashCourse/PyPDF2%20Crash%20Course.ipynb)
+[fetch all pdf files function from this notebook from a github page, which is from a youtube tutorial](https://github.com/Jcharis/DataScienceTools/blob/master/PyPDF_CrashCourse/PyPDF2%20Crash%20Course.ipynb)
 
 [pypdf merging pdfs](https://pypdf.readthedocs.io/en/stable/user/merging-pdfs.html)
 
