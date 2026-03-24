@@ -4,6 +4,7 @@ Prepare your A5 books to print in A4 pages.
 # Dependencies: 
 
 pypdf, pymupdf and **numpy** ~~which i forgor to add in the notebook description~~ (just for some sorting, if you know something else you can use it). os and re (for renaming bookbinder app output) should come preinstalled.
+
 You can install these using pip:
 
 ```
