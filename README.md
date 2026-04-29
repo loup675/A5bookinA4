@@ -1,6 +1,8 @@
 # A6bookinA4
 Prepare your A6 books to print in A4 pages.
 
+(yes, I made a mistake in the project name too XD books are A6-sized, but the sheets you cut are A5, so i got it mixed up :P)
+
 # Dependencies: 
 
 jupyter notebook, of course.
