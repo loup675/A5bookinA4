@@ -1,5 +1,5 @@
 # A6bookinA4
-Prepare your A5 books to print in A4 pages.
+Prepare your A6 books to print in A4 pages.
 
 # Dependencies: 
 
