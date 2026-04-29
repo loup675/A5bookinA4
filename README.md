@@ -1,4 +1,4 @@
-# A5bookinA4
+# A6bookinA4
 Prepare your A5 books to print in A4 pages.
 
 # Dependencies: 
