@@ -1,7 +1,9 @@
 # A6bookinA4
 Prepare your A6 books to print in A4 pages.
 
-(yes, I made a mistake in the project name too XD books are A6-sized, but the sheets you cut are A5, so i got it mixed up :P)
+~~(yes, I made a mistake in the project name too XD books are A6-sized, but the sheets you cut are A5, so i got it mixed up :P)~~
+
+Actually, just remembered *why* I put this name to the project: You will be making an A6 book, but *imposed* into an A4 page.
 
 # Dependencies: 
 
@@ -36,3 +38,7 @@ Make your A5 book in [bookbinder app](https://bookbinder.app/), 2 pages per side
 [pymupdf's rect documentation](https://pymupdf.readthedocs.io/en/latest/rect.html) (had to understand this since I wanted to make a 2up instead of 4up as in the example above!)
 
 Unfortunately, the functions for renaming the outputs from [bookbinder app](https://bookbinder.app/) is AI-sloppa (deep-seek). As stated in the cell that contains it, I was too tired to figure it out and none of the intricate requirements I needed were in any tutorial help I found on google/stackexchange, so I gave it a shot and it fortunately didn't have much problem figuring it out.
+
+# Second round
+
+I managed to ~~vibe-code~~ an alternative, which is much much faster, because bookbinder app gave me a problem with one book in specific for some reason... Instructions are in the notebook itself, but it's basically just plug and play.
