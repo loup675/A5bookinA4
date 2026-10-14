@@ -3,7 +3,7 @@ Prepare your A6 books to print in A4 pages.
 
 ~~(yes, I made a mistake in the project name too XD books are A6-sized, but the sheets you cut are A5, so i got it mixed up :P)~~
 
-Actually, just remembered *why* I put this name to the project: You will be making an A6 book, but *imposed* into an A4 page.
+Actually, just remembered *why* I put this name to the project: You will be making an A6 book (this *A5* signatures), but *imposed* into an A4 page.
 
 # Dependencies: 
 
@@ -48,3 +48,5 @@ I managed to ~~vibe-code~~ an alternative, which is much much faster, because bo
 After some thinking, I managed to make new versions of the script, and solved all problems I had with it so far. You can either try the v4 notebook, for ease of use, or the script version. 
 
 Both have minimal file bloat and make the 5 sheets per signature standard. If you want an even number, just use the first version and alter the values in there, it should be fine!
+
+With this latest version, all you need to install is pymupdf, so no need for pypdf or jupyter, unless you want to use the notebook environment like I do.
