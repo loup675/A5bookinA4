@@ -42,3 +42,9 @@ Unfortunately, the functions for renaming the outputs from [bookbinder app](http
 # Second round
 
 I managed to ~~vibe-code~~ an alternative, which is much much faster, because bookbinder app gave me a problem with one book in specific for some reason... Instructions are in the notebook itself, but it's basically just plug and play.
+
+# Update!
+
+After some thinking, I managed to make new versions of the script, and solved all problems I had with it so far. You can either try the v4 notebook, for ease of use, or the script version. 
+
+Both have minimal file bloat and make the 5 sheets per signature standard. If you want an even number, just use the first version and alter the values in there, it should be fine!
